@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @igorpauloo
+- 👀 I’m interested in all about Data
+- 🌱 I’m currently learning Data Engineering and Data Modeling
+- 💞️ I’m looking to collaborate on Data Projects
+- 📫 How to reach me igorpaulofcosta@gmail.com
